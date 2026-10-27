@@ -1,0 +1,6 @@
+{
+  "name": "Claro - Análise de Não Comparecimento",
+  "description": "Painel de análise operacional e diagnóstica para casos de não comparecimento de técnicos a clientes Claro com leitura de Excel, filtros dinâmicos e analítico.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
